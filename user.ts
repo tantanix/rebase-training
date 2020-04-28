@@ -1,5 +1,6 @@
 const user = {
   id: number,
   name: string,
-  address: string
+  address: string,
+  age: number
 };
